@@ -63,7 +63,8 @@ github "xquartz",     "1.2.1"
 # https://github.com/boxen.
 
 github "mysql",       "1.99.992"
-github "postgresql",  "3.0.3"
+github "sysctl",	"1.0.1"
+#github "postgresql",  "3.0.3"
 github "elasticsearch","2.7.1"
 github "java",        "1.8.2"
 github "atom",        "1.2.0"
