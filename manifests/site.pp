@@ -89,3 +89,13 @@ node default {
     target => $boxen::config::repodir
   }
 }
+
+# include the java module referenced in my Puppetfile
+include java
+
+include mysql
+include postgresql
+include elasticsearch
+include java
+include atom
+include colloquy
