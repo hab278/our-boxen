@@ -94,7 +94,7 @@ node default {
 include java
 
 include mysql
-#include postgresql
+include sysctl
 include elasticsearch
 include java
 include atom
